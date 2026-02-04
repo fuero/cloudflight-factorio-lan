@@ -2,7 +2,7 @@
 
 ## When
 
-* Samstag 2.7. @ Cloudflight Office Linz
+* Samstag 7.2. @ Cloudflight Office Linz
 
 ## Timeline
 
@@ -13,7 +13,7 @@
 
 ### **Bitte bei Matthias/Yolgie oder Tobi/StaticVoidMan anmelden.**
 
-## Tentative Modlist: 
+## Tentative Modlist:
 
 * base
 * elevated-rails
